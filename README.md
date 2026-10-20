@@ -11,7 +11,16 @@
     <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-xakhundx.github.io-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=121216" alt="Live Portfolio" />
   </a>
   <a href="https://xakhundx.github.io/Ai-Pomodoro-App/">
-    <img src="https://img.shields.io/badge/FOCUS_ARENA_3D-LIVE_WEB_APP-E4E4E7?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=121216" alt="Focus Arena Live App" />
+    <img src="https://img.shields.io/badge/FOCUS_ARENA_3D-LIVE_APP-E4E4E7?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=121216" alt="Focus Arena Live App" />
+  </a>
+  <a href="https://xakhundx.github.io/statpulse-roi/">
+    <img src="https://img.shields.io/badge/STATPULSE_ROI-FORECASTER-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=121216" alt="StatPulse ROI" />
+  </a>
+  <a href="https://xakhundx.github.io/macropulse/">
+    <img src="https://img.shields.io/badge/MACROPULSE-OPTIMIZER-E4E4E7?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=121216" alt="MacroPulse" />
+  </a>
+  <a href="https://xakhundx.github.io/saiyan-velocity/">
+    <img src="https://img.shields.io/badge/SAIYAN_VELOCITY-POWER_APP-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=121216" alt="SaiyanVelocity" />
   </a>
   <a href="https://www.linkedin.com/in/ammar-akhund-145b17245/">
     <img src="https://img.shields.io/badge/LINKEDIN-1,050+_FOLLOWERS-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=121216" alt="LinkedIn" />
@@ -103,6 +112,42 @@ spoken_languages: ["English (Native)", "Urdu (Native)", "Hindi (Fluent)", "Sindh
       <h4>04 · Statistical Analysis of Economic Data</h4>
       <p><strong>Econometrics · R, ANOVA &amp; Predictive Regression</strong></p>
       <p>Formal hypothesis testing, variance decomposition (ANOVA), and multivariable regression modeling in R to isolate statistically significant economic and retail drivers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>05 · StatPulse ROI — Behavioral Habit &amp; Spending Forecaster</h4>
+      <p><strong>Client-Side Econometrics &amp; Time-Series Engine (Zero-API)</strong></p>
+      <p>Applies empirical econometric time-series models and Pearson regression to personal human behavior, testing whether cognitive focus hours and gym discipline suppress impulse spending.</p>
+      <p>
+        <a href="https://xakhundx.github.io/statpulse-roi/"><img src="https://img.shields.io/badge/LAUNCH_APP-FFFFFF?style=flat-square&logo=vercel&logoColor=000" alt="Launch StatPulse"/></a>
+        <a href="https://github.com/xakhundx/statpulse-roi"><img src="https://img.shields.io/badge/SOURCE_CODE-18181B?style=flat-square&logo=github&logoColor=FFF" alt="Source Code"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>06 · MacroPulse — Macro Cost-Per-Gram Optimizer</h4>
+      <p><strong>Microeconomic Nutrition Engine · UofM Economics &amp; @akhund_fit</strong></p>
+      <p>Microeconomic optimization engine maximizing daily protein yield per dollar (g/$) subject to daily caloric and weekly grocery budget constraints.</p>
+      <p>
+        <a href="https://xakhundx.github.io/macropulse/"><img src="https://img.shields.io/badge/LAUNCH_APP-FFFFFF?style=flat-square&logo=vercel&logoColor=000" alt="Launch MacroPulse"/></a>
+        <a href="https://github.com/xakhundx/macropulse"><img src="https://img.shields.io/badge/SOURCE_CODE-18181B?style=flat-square&logo=github&logoColor=FFF" alt="Source Code"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>07 · SaiyanVelocity — Zero-API Focus &amp; Lift Tracker</h4>
+      <p><strong>Deterministic Dragon Ball Math Engine for Deep Work &amp; Training</strong></p>
+      <p>Evolution of the Dragon Ball Pomodoro focus app, replacing third-party LLM API keys with a 100% client-side deterministic mathematical progression engine and Web Audio synthesizer.</p>
+      <p>
+        <a href="https://xakhundx.github.io/saiyan-velocity/"><img src="https://img.shields.io/badge/LAUNCH_APP-FFFFFF?style=flat-square&logo=vercel&logoColor=000" alt="Launch SaiyanVelocity"/></a>
+        <a href="https://github.com/xakhundx/saiyan-velocity"><img src="https://img.shields.io/badge/SOURCE_CODE-18181B?style=flat-square&logo=github&logoColor=FFF" alt="Source Code"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>08 · Public Service Data Systems</h4>
+      <p><strong>Public Administration · Government of Manitoba</strong></p>
+      <p>Operational data processing, cross-departmental reconciliation, and file tracking within the Department of Housing, Addictions &amp; Homelessness.</p>
     </td>
   </tr>
 </table>
